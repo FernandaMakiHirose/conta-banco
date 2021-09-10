@@ -3,6 +3,9 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 - Java e Maven instalados
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Dica - Use o terminal para...
 Checar se o Java está instalado:
 >java --version
