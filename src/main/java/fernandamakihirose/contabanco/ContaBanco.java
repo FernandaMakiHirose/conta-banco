@@ -2,6 +2,7 @@ package fernandamakihirose.contabanco;
 
 import lombok.Data;
 
+
 @Data
 public class ContaBanco {
     private int numConta;
