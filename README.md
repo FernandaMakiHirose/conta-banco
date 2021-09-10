@@ -14,9 +14,10 @@ Checar se o Maven está instalado:
 >mvn -v 
 
 ## Como executar o projeto?
-1) Abra o projeto no IntelliJ IDEA
-2) Aceitei o IntelliJ IDEA instalar as dependências e o Maven. Irá aparecer uma opção de aceitar fazer o download.
-3) No path `conta-banco\src\main\java\fernandamakihirose\contabanco\ContaBancoApplication.java` digite no terminal: `mvn spring-boot:run`
+1) Clone o projeto no terminal com o seguinte comando: ``
+2) Abra o projeto no IntelliJ IDEA
+3) Aceitei o IntelliJ IDEA instalar as dependências e o Maven. Irá aparecer uma opção de aceitar fazer o download.
+4) No path `conta-banco\src\main\java\fernandamakihirose\contabanco\ContaBancoApplication.java` digite no terminal: `mvn spring-boot:run`
 
 ## Como inicializei o projeto?
 - Utilizei o site [Spring Initializr](https://start.spring.io/) para gerar meu projeto
